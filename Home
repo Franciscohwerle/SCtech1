@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel = "stylesheet" type = "text/css" href="estilo.css">
+	<title>SCtech</title>
+  <center>
+  	      <div class = "menu">
+  	      <ul>
+		        <li> <a href="index.html">Home</a></li>
+            <li><a href="produtos.html">Produtos</a></li>
+            <li><a href="sobre.html">Sobre nós </a></li>
+            <li><a href="contatos.html">Contatos</a></li>
+            <li><a href="orcamento.html">Compras</a></li>
+		      </ul>
+	</div>
+  </center>
+</head>
+<body>
+  <center>
+  	<div id= "titulo1">
+  		<h1>SCtech</h1>
+  	</div>
+
+  	<figure>
+  		<img id= "logo" src="imagens/logo.png">
+  	</figure>
+
+  	  <h2>Tecnologia e inovação é na SCtech</h2>
+  	  <div id="texto-home">
+
+  	  	
+  	  	<p>
+  	  		Bem vindo ao site oficial da SCtech. <br> Somos uma empresa catarinense voltada para a fabricação de eletrônicos,<br> principalmente tablets e celulares. <br> Aqui você encontra produtos tecnológicos de ultima geração e da melhhor qualidade. 
+  	  	</div>
+  	  	</p>
+  </center>
+</body>
+</html>
